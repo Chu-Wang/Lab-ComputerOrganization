@@ -1,4 +1,4 @@
-﻿# 计算机组成原理实验 Computer Components Principles
+﻿# 计算机组成原理实验 Computer Organization
 
 华中科技大学计算机学院计科专业大三上组原实验，实验平台为Logisim。
 
