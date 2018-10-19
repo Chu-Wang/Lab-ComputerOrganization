@@ -15,4 +15,10 @@
 
 - - -
 
+*Exp2* 
+- 并行快速加法器
+- 阵列乘法器
+- booth一位乘法器，感谢[博客](https://blog.csdn.net/kai8wei/article/details/44308557)
+- 32位MIPS运算器
 
+- - -
