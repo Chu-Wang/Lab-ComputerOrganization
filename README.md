@@ -6,7 +6,7 @@
 
 - - -
 
-*Exp1（数据表示实验）* 
+*Data Presentation（数据表示实验）* 
 - 国标码转区位码
 - 偶校验
 - 海明校验
@@ -15,7 +15,7 @@
 
 - - -
 
-*Exp2（运算器实验）* 
+*Arithmatic Logic Unit（运算器实验）* 
 - 并行快速加法器
 - 阵列乘法器
 - booth一位乘法器，感谢[博客](https://blog.csdn.net/kai8wei/article/details/44308557)
@@ -23,9 +23,14 @@
 
 - - -
 
-*Exp3（存储实验）* 
+*Storage System（存储实验）* 
 - 汉字字库扩展（存储器字扩展）
 - MIPS RAM（存储器位扩展）
 - MIPS RegFile
+
+- - -
+
+*Simple CPU（CPU实验）* 
+- 进度为0
 
 - - -
