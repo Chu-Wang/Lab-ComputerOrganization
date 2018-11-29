@@ -15,7 +15,7 @@
 
 - - -
 
-*Arithmatic Logic Unit（运算器实验）* 
+*Arithmatic and Logic Unit（运算器实验）* 
 - 并行快速加法器
 - 阵列乘法器
 - booth一位乘法器，感谢[博客](https://blog.csdn.net/kai8wei/article/details/44308557)
