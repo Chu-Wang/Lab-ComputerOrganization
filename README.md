@@ -33,5 +33,6 @@
 *Simple CPU（CPU实验）* 
 - 单周期MIPS（硬布线）
 - 多周期MIPS（微程序）
+- 多周期MIPS（硬布线）
 
 - - -
