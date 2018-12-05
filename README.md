@@ -27,6 +27,7 @@
 - 汉字字库扩展（存储器字扩展）
 - MIPS RAM（存储器位扩展）
 - MIPS RegFile
+- 全相连cache
 
 - - -
 
